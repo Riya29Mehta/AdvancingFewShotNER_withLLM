@@ -1,0 +1,13 @@
+[
+    {
+        "sentence": "Amazon expanded its cloud business.",
+        "entity": "Amazon",
+        "true_label": "ORG"
+    },
+
+    {
+        "sentence": "Jordan won the basketball tournament.",
+        "entity": "Jordan",
+        "true_label": "PER"
+    }
+]

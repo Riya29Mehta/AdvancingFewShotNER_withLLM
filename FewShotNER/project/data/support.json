@@ -1,0 +1,211 @@
+[
+    {
+        "sentence": "The new electric vehicle was launched by Tesla yesterday.",
+        "entity": "Tesla",
+        "label": "ORG"
+    },
+    {
+        "sentence": "Researchers at Google developed a powerful AI system.",
+        "entity": "Google",
+        "label": "ORG"
+    },
+    {
+        "sentence": "A new cloud platform was announced by Microsoft.",
+        "entity": "Microsoft",
+        "label": "ORG"
+    },
+    {
+        "sentence": "Global deliveries were expanded recently by Amazon.",
+        "entity": "Amazon",
+        "label": "ORG"
+    },
+    {
+        "sentence": "The latest iPhone was unveiled during Apple's event.",
+        "entity": "Apple",
+        "label": "ORG"
+    },
+    {
+        "sentence": "A social networking feature was introduced by Meta.",
+        "entity": "Meta",
+        "label": "ORG"
+    },
+    {
+        "sentence": "Several missions have been successfully completed by NASA.",
+        "entity": "NASA",
+        "label": "ORG"
+    },
+    {
+        "sentence": "Thousands of employees were hired this year by Infosys.",
+        "entity": "Infosys",
+        "label": "ORG"
+    },
+    {
+        "sentence": "A technology conference was organized by OpenAI.",
+        "entity": "OpenAI",
+        "label": "ORG"
+    },
+    {
+        "sentence": "Software services are provided globally by TCS.",
+        "entity": "TCS",
+        "label": "ORG"
+    },
+
+
+
+    {
+        "sentence": "An outstanding innings was played by Virat Kohli.",
+        "entity": "Virat Kohli",
+        "label": "PER"
+    },
+    {
+        "sentence": "The football tournament was won by Lionel Messi.",
+        "entity": "Lionel Messi",
+        "label": "PER"
+    },
+    {
+        "sentence": "A hat-trick was scored yesterday by Ronaldo.",
+        "entity": "Ronaldo",
+        "label": "PER"
+    },
+    {
+        "sentence": "The technology summit featured a speech by Elon Musk.",
+        "entity": "Elon Musk",
+        "label": "PER"
+    },
+    {
+        "sentence": "A new album was recently released by Taylor Swift.",
+        "entity": "Taylor Swift",
+        "label": "PER"
+    },
+    {
+        "sentence": "The theory of relativity was developed by Albert Einstein.",
+        "entity": "Albert Einstein",
+        "label": "PER"
+    },
+    {
+        "sentence": "Millions of cricket fans admire Sachin Tendulkar.",
+        "entity": "Sachin Tendulkar",
+        "label": "PER"
+    },
+    {
+        "sentence": "The company Apple was founded by Steve Jobs.",
+        "entity": "Steve Jobs",
+        "label": "PER"
+    },
+    {
+        "sentence": "A famous television show was hosted by Amitabh Bachchan.",
+        "entity": "Amitabh Bachchan",
+        "label": "PER"
+    },
+    {
+        "sentence": "India was visited during the tour by Barack Obama.",
+        "entity": "Barack Obama",
+        "label": "PER"
+    },
+
+
+
+    {
+        "sentence": "A new satellite mission was launched recently by India.",
+        "entity": "India",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Millions of tourists visit Paris every year.",
+        "entity": "Paris",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Heavy rainfall affected several areas in California.",
+        "entity": "California",
+        "label": "LOC"
+    },
+    {
+        "sentence": "An international summit was hosted in New York.",
+        "entity": "New York",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Many technology companies are headquartered in Tokyo.",
+        "entity": "Tokyo",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Saudi Arabia shares a border with Jordan.",
+        "entity": "Jordan",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Every year millions of visitors travel to London.",
+        "entity": "London",
+        "label": "LOC"
+    },
+    {
+        "sentence": "The cricket world cup was won by Australia.",
+        "entity": "Australia",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Several countries are covered by the Amazon rainforest.",
+        "entity": "Amazon",
+        "label": "LOC"
+    },
+    {
+        "sentence": "Mount Everest is situated near Nepal.",
+        "entity": "Nepal",
+        "label": "LOC"
+    },
+
+
+
+    {
+        "sentence": "Athletes from many countries participate in the Olympics.",
+        "entity": "Olympics",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Scientists gathered for the Nobel Prize ceremony.",
+        "entity": "Nobel Prize",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Millions of users purchased the latest iPhone.",
+        "entity": "iPhone",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Within months ChatGPT became extremely popular worldwide.",
+        "entity": "ChatGPT",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Fans across the world watched the FIFA World Cup.",
+        "entity": "FIFA World Cup",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Several new features were introduced in Windows 11.",
+        "entity": "Windows 11",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Global economies were affected by COVID-19.",
+        "entity": "COVID-19",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Children around the world enjoy reading Harry Potter.",
+        "entity": "Harry Potter",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Machine learning applications are often built using Python.",
+        "entity": "Python",
+        "label": "MISC"
+    },
+    {
+        "sentence": "Top musicians were honored during the Grammy Awards.",
+        "entity": "Grammy Awards",
+        "label": "MISC"
+    }
+]

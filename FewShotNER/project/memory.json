@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "Washington approved the new policy.",
+        "entity": "Washington",
+        "wrong_label": "LOC",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "Riya went to Italy.",
+        "entity": "Italy",
+        "wrong_label": "PER",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "Elon Musk went to India for Tesla event.",
+        "entity": "India",
+        "wrong_label": "PER",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "Elon Musk went to India for Tesla event.",
+        "entity": "Tesla",
+        "wrong_label": "PER",
+        "correct_label": "ORG"
+    },
+    {
+        "sentence": "Riya went to Japan",
+        "entity": "Riya",
+        "wrong_label": "LOC",
+        "correct_label": "PER"
+    },
+    {
+        "sentence": "Ankit works at Amazon",
+        "entity": "Ankit",
+        "wrong_label": "LOC",
+        "correct_label": "PER"
+    },
+    {
+        "sentence": "Ankit works at Amazon",
+        "entity": "Amazon",
+        "wrong_label": "LOC",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "She Loves French Cuisine",
+        "entity": "French Cuisine",
+        "wrong_label": "LOC",
+        "correct_label": "MISC"
+    },
+    {
+        "sentence": "The company launched new Iphone in Australia by Apple.",
+        "entity": "Iphone",
+        "wrong_label": "ORG",
+        "correct_label": "ORG"
+    },
+    {
+        "sentence": "The company launched new Iphone in Australia by Apple.",
+        "entity": "Australia",
+        "wrong_label": "ORG",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "The company launched new Iphone in Australia by Apple.",
+        "entity": "Apple",
+        "wrong_label": "ORG",
+        "correct_label": "ORG"
+    },
+    {
+        "sentence": "Indian scientists worked on NASA missions.",
+        "entity": "Indian",
+        "wrong_label": "LOC",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "Indian scientists worked on NASA missions.",
+        "entity": "NASA",
+        "wrong_label": "LOC",
+        "correct_label": "ORG"
+    },
+    {
+        "sentence": "Global economies were affected by COVID-19.",
+        "entity": "COVID",
+        "wrong_label": "LOC",
+        "correct_label": "MISC"
+    },
+    {
+        "sentence": "Priya visited Jaipur last week.",
+        "entity": "Priya",
+        "wrong_label": "LOC",
+        "correct_label": "PER"
+    },
+    {
+        "sentence": "Rahul studies at IIT Bombay.",
+        "entity": "IIT Bombay",
+        "wrong_label": "LOC",
+        "correct_label": "LOC"
+    },
+    {
+        "sentence": "Neha attended a conference at Infosys Bangalore campus.",
+        "entity": "Neha",
+        "wrong_label": "ORG",
+        "correct_label": "PER"
+    },
+    {
+        "sentence": "Elon Musk hosted Tesla event in India.",
+        "entity": "Elon Musk",
+        "wrong_label": "PER",
+        "correct_label": "PER"
+    }
+]
