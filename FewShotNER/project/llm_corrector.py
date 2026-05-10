@@ -1,7 +1,7 @@
 from groq import Groq
 
 # Configure Groq API
-API_KEY = "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"
+API_KEY = "YOUR_KEY"
 client = Groq(api_key=API_KEY)
 
 def correct_label(sentence, entity, metric_label,bert_label,bert_confidence, fewshot_examples):
